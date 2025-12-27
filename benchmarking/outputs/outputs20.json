@@ -1,0 +1,443 @@
+[
+  {
+    "Type": "color",
+    "List": [
+      "shark",
+      "peach",
+      "cream",
+      "beige",
+      "coach",
+      "mahogany",
+      "ruby",
+      "wolf",
+      "blue",
+      "wisteria",
+      "periwinkle",
+      "teal",
+      "fuchsia",
+      "goat",
+      "xylophone"
+    ],
+    "Expected": "9)",
+    "RawOutput": [
+      "8"
+    ],
+    "Predicted": "8)",
+    "Match": false
+  },
+  {
+    "Type": "furniture",
+    "List": [
+      "chest",
+      "nightstand",
+      "wine rack",
+      "buffet",
+      "massage chair",
+      "crib",
+      "sideboard"
+    ],
+    "Expected": "7)",
+    "RawOutput": [
+      "4"
+    ],
+    "Predicted": "4)",
+    "Match": false
+  },
+  {
+    "Type": "occupation",
+    "List": [
+      "donkey",
+      "ambulance",
+      "fuchsia",
+      "limousine",
+      "camper",
+      "interpreter",
+      "futon",
+      "eagle",
+      "chef",
+      "alligator",
+      "director",
+      "dentist",
+      "ruby",
+      "lawyer",
+      "designer",
+      "analyst",
+      "peach",
+      "pharmacist"
+    ],
+    "Expected": "8)",
+    "RawOutput": [
+      "4"
+    ],
+    "Predicted": "4)",
+    "Match": false
+  },
+  {
+    "Type": "fruit",
+    "List": [
+      "cherry",
+      "kiwi",
+      "quince",
+      "boysenberry",
+      "banana",
+      "navy",
+      "jackfruit",
+      "armchair",
+      "mango",
+      "passionfruit"
+    ],
+    "Expected": "8)",
+    "RawOutput": [
+      "6"
+    ],
+    "Predicted": "6)",
+    "Match": false
+  },
+  {
+    "Type": "sport",
+    "List": [
+      "taekwondo",
+      "dahlia",
+      "farmer",
+      "canoeing",
+      "wolf",
+      "coffee table",
+      "currant",
+      "steel drum",
+      "basketball",
+      "sitar"
+    ],
+    "Expected": "3)",
+    "RawOutput": [
+      "3"
+    ],
+    "Predicted": "3)",
+    "Match": true
+  },
+  {
+    "Type": "occupation",
+    "List": [
+      "saxophone",
+      "scooter",
+      "biologist",
+      "orange",
+      "mechanic",
+      "workbench",
+      "economist",
+      "zoologist",
+      "tailor",
+      "dancer",
+      "rat",
+      "interpreter",
+      "parsley",
+      "yellow",
+      "snowboarding"
+    ],
+    "Expected": "7)",
+    "RawOutput": [
+      "4"
+    ],
+    "Predicted": "4)",
+    "Match": false
+  },
+  {
+    "Type": "occupation",
+    "List": [
+      "turkey",
+      "analyst",
+      "police officer",
+      "firefighter",
+      "mechanic",
+      "clerk",
+      "khaki",
+      "bluebell",
+      "farmer",
+      "plum",
+      "plumber"
+    ],
+    "Expected": "7)",
+    "RawOutput": [
+      "6"
+    ],
+    "Predicted": "6)",
+    "Match": false
+  },
+  {
+    "Type": "animal",
+    "List": [
+      "kangaroo",
+      "flamingo",
+      "eagle",
+      "hedgehog",
+      "goat",
+      "alligator",
+      "monkey"
+    ],
+    "Expected": "7)",
+    "RawOutput": [
+      "7"
+    ],
+    "Predicted": "7)",
+    "Match": true
+  },
+  {
+    "Type": "fruit",
+    "List": [
+      "apricot",
+      "bowling",
+      "orange",
+      "magenta"
+    ],
+    "Expected": "2)",
+    "RawOutput": [
+      "2"
+    ],
+    "Predicted": "2)",
+    "Match": true
+  },
+  {
+    "Type": "animal",
+    "List": [
+      "peacock",
+      "bus",
+      "heather",
+      "peony",
+      "climbing",
+      "surfing",
+      "hockey",
+      "receptionist",
+      "djembe",
+      "bronze",
+      "bluebell",
+      "plum",
+      "diving",
+      "cricket"
+    ],
+    "Expected": "1)",
+    "RawOutput": [
+      "1"
+    ],
+    "Predicted": "1)",
+    "Match": true
+  },
+  {
+    "Type": "animal",
+    "List": [
+      "olive",
+      "helicopter",
+      "dahlia",
+      "aloe",
+      "musician",
+      "penguin",
+      "camellia",
+      "charcoal",
+      "translator",
+      "kayaking",
+      "entertainment center",
+      "alligator"
+    ],
+    "Expected": "2)",
+    "RawOutput": [
+      "2"
+    ],
+    "Predicted": "2)",
+    "Match": true
+  },
+  {
+    "Type": "instrument",
+    "List": [
+      "cello",
+      "elephant",
+      "lute",
+      "ruby",
+      "gong",
+      "emerald",
+      "olive",
+      "aloe",
+      "organ",
+      "trombone"
+    ],
+    "Expected": "5)",
+    "RawOutput": [
+      "3"
+    ],
+    "Predicted": "3)",
+    "Match": false
+  },
+  {
+    "Type": "instrument",
+    "List": [
+      "hurdy-gurdy",
+      "bugle",
+      "organ",
+      "glass harmonica",
+      "double bass",
+      "guitar"
+    ],
+    "Expected": "6)",
+    "RawOutput": [
+      "5"
+    ],
+    "Predicted": "5)",
+    "Match": false
+  },
+  {
+    "Type": "vehicle",
+    "List": [
+      "bicycle",
+      "starfruit",
+      "truck",
+      "dog",
+      "freighter",
+      "pear",
+      "aster",
+      "yacht",
+      "dentist",
+      "submarine",
+      "motorcycle",
+      "wardrobe",
+      "oregano",
+      "falcon"
+    ],
+    "Expected": "6)",
+    "RawOutput": [
+      "4"
+    ],
+    "Predicted": "4)",
+    "Match": false
+  },
+  {
+    "Type": "animal",
+    "List": [
+      "falcon",
+      "truck",
+      "leopard",
+      "donkey",
+      "plum",
+      "penguin",
+      "cat",
+      "camel",
+      "wolf",
+      "peacock",
+      "apricot",
+      "wrestling",
+      "panda",
+      "clavichord"
+    ],
+    "Expected": "9)",
+    "RawOutput": [
+      "7"
+    ],
+    "Predicted": "7)",
+    "Match": false
+  },
+  {
+    "Type": "instrument",
+    "List": [
+      "gaming chair",
+      "loganberry",
+      "deer",
+      "tram",
+      "baseball",
+      "taekwondo",
+      "mustard",
+      "minivan",
+      "rose",
+      "ochre",
+      "gong",
+      "bat",
+      "skiing",
+      "car",
+      "tangerine",
+      "dune buggy",
+      "stool",
+      "jet ski"
+    ],
+    "Expected": "1)",
+    "RawOutput": [
+      "2"
+    ],
+    "Predicted": "2)",
+    "Match": false
+  },
+  {
+    "Type": "sport",
+    "List": [
+      "tulip",
+      "jet",
+      "gooseberry",
+      "darts",
+      "amaryllis",
+      "formula1",
+      "boat",
+      "rowing"
+    ],
+    "Expected": "3)",
+    "RawOutput": [
+      "3"
+    ],
+    "Predicted": "3)",
+    "Match": true
+  },
+  {
+    "Type": "occupation",
+    "List": [
+      "china cabinet",
+      "pomegranate",
+      "pilot",
+      "petunia",
+      "recliner"
+    ],
+    "Expected": "1)",
+    "RawOutput": [
+      "1"
+    ],
+    "Predicted": "1)",
+    "Match": true
+  },
+  {
+    "Type": "instrument",
+    "List": [
+      "maracas",
+      "mauve",
+      "trumpet",
+      "photographer",
+      "harp",
+      "tv stand",
+      "kangaroo",
+      "bugle",
+      "pharmacist",
+      "blue",
+      "mustard",
+      "fern",
+      "steel drum",
+      "teal",
+      "tuba",
+      "saxophone",
+      "kayaking",
+      "writer"
+    ],
+    "Expected": "7)",
+    "RawOutput": [
+      "7"
+    ],
+    "Predicted": "7)",
+    "Match": true
+  },
+  {
+    "Type": "fruit",
+    "List": [
+      "hedgehog",
+      "calendula",
+      "double bass",
+      "red",
+      "durian"
+    ],
+    "Expected": "1)",
+    "RawOutput": [
+      "1"
+    ],
+    "Predicted": "1)",
+    "Match": true
+  }
+]
