@@ -1,2 +1,0 @@
-# Causal mediation package
-
